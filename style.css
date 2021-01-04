@@ -1,9 +1,21 @@
-p {
-color: blueviolet;
+body {
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
-    color: chocolate;
-    text-align: center;
-    text-justify: auto;
+    font-size: 50px;
+}
+.highlight {
+    color: orange;
+}
+
+.half-width {
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-width img {
+    width:100%;
+    
 }
