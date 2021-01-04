@@ -22,6 +22,7 @@ p{
 }
 .half-width img{
     width: 100%;
+    position: relative;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
