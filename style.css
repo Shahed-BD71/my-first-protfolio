@@ -8,6 +8,9 @@ h1{
 h2{
     font-size: 40px;
 }
+.top-banner h3 {
+    color: purple;
+}
 p{
     color: dimgray;
 }
@@ -58,12 +61,12 @@ section{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image: linear-gradient(560deg, lightSalmon, tomato);
     border-image-slice: 1;
 }
 #baby-web{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
+    border-image: linear-gradient(560deg, blue, cyan);
     border-image-slice: 1;
 }
 
